@@ -1,0 +1,101 @@
+Value,Problem,Exceptions
+hypertension,Hypertension,1
+High Blood Pressure,Hypertension,1
+High bp,Hypertension,1
+htn,Hypertension,0
+HTN,Hypertension,0
+Hypertensive ,Hypertension,1
+Vaginal,Vaginal infection,1
+Bacterial vaginitis,Vaginal infection,1
+Bacterial vaginosis,Vaginal infection,1
+Vaginal Bacterial infection,Vaginal infection,1
+Trichomonas vaginalis,Vaginal infection,1
+Chlamydia ,Vaginal infection,1
+Gonnorrhea_,Vaginal infection,1
+Candida vaginosis,Vaginal infection,1
+Vaginal yeast infection,Vaginal infection,1
+Pregnancy,Pregnancy,1
+Pregnant,Pregnancy,1
+Well child,Child Wellness,1
+Tinea ,Tinea,1
+Capitis ,Tinea ,1
+Tinea Corporis,Tinea ,1
+Ringworm,Tinea,1
+Ring worm,Tinea,1
+Abd pain,Abdominal Pain,0
+Abdominal pain,Abdominal Pain,1
+Acne,Acne,0
+Allergies ,Allergies,1
+seasonal allergies,Allergies,1
+Allergies - Seasonal,Allergies,1
+Allergy ,Allergies,1
+Anemia,Anemia,1
+Anorexia,Anorexia,1
+Osteoarthritis,Arthritis,1
+Arthritis,Arthritis,1
+Asthma,Asthma,1
+back pain,Back Pain,1
+Bacterial,Bacterial Infection,1
+Body aches,Body Pain,1
+body pain,Body Pain,1
+Bronchitis,Bronchitis,1
+Cataracts,Cataracts,1
+Cellulitis,Cellulitis,1
+Cerebral Palsy,Cerebral Palsy,1
+Cold,Cold & Cough,0
+Cough,Cold & Cough,1
+Conjuctivitis ,Conjuctivitis ,1
+Dehydrated ,Dehydration,1
+Dehydration,Dehydration,1
+Dental ,Dental,0
+Tooth,Dental,1
+Dermatitis,Dermatitis,1
+Diabetes,Diabetes,1
+Dry eye,Dry eye,1
+Dry scalp ,Dry scalp ,1
+Dry skin ,Dry skin ,1
+Dysmenorrhea,Dysmenorrhea,1
+Eye,Eye Trouble,0
+fever,Fever,0
+flu ,Flu,0
+Fungus,Fungal Infection,1
+Fungal,Fungal Infection,1
+Gastritis,Gastritis,1
+Gastritis,Gastritis,1
+GERD,GERD,1
+Acid,GERD,1
+Gastric reflux,GERD,1
+Gastroesophageal reflux,GERD,1
+Reflux,GERD,1
+Headache,Headache,1
+migraine,Headache,1
+hemmorrhoids,Hemorrhoids ,1
+Hernia,Hernia,1
+Herpes simplex virus ,Herpes Simplex,1
+insomia,Insomnia,1
+Intestinal Parasites,Intestinal parasites,1
+Parasitic Infection,Intestinal parasites,1
+worms,Intestinal parasites,0
+malaria,Malaria,1
+Malnutrition ,Malnutrition ,1
+Menstrual,Menstrual,1
+Otitis Media,Otitis Media,1
+Pain,Pain,0
+Spasm,Pain,1
+Ache,Pain,0
+Psoriasis,Psoriasis,1
+Rash,Rash,0
+Rhinitis,Rhinitis,1
+scabies,Scabies,1
+scabes,Scabies,0
+Sciatica,Sciatica,1
+STD,STD,0
+STI,STI,0
+Stomach Ulcer,Ulcer,1
+Upper respiratory,Upper respiratory infection,1
+Urinary Tract Infection,UTI,1
+Urinary track,UTI,1
+UTI,UTI,0
+Viral,Virus,1
+Virus,Virus,1
+Yeast ,Yeast Infection,1
